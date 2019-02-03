@@ -1,0 +1,6 @@
+D:\Aderant\AderantCodingTestSolution\AderantCodingTestSolution\bin\Debug\AderantCodingTestSolution.exe.config
+D:\Aderant\AderantCodingTestSolution\AderantCodingTestSolution\bin\Debug\AderantCodingTestSolution.exe
+D:\Aderant\AderantCodingTestSolution\AderantCodingTestSolution\bin\Debug\AderantCodingTestSolution.pdb
+D:\Aderant\AderantCodingTestSolution\AderantCodingTestSolution\obj\Debug\AderantCodingTestSolution.csproj.CoreCompileInputs.cache
+D:\Aderant\AderantCodingTestSolution\AderantCodingTestSolution\obj\Debug\AderantCodingTestSolution.exe
+D:\Aderant\AderantCodingTestSolution\AderantCodingTestSolution\obj\Debug\AderantCodingTestSolution.pdb
